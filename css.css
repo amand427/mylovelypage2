@@ -127,6 +127,10 @@ p, dd {
     right: 5%;
     scale: -1 1;
 }
+.finais {
+    top: 10%;
+    right: 10%;
+}
 
 .texto {
     background-color: rgba(250, 235, 215, 0.89);
@@ -195,12 +199,6 @@ footer a:hover {
 #logotipo {
     float: left;
     margin-right: 3%;
-}
-
-.finais {
-    top: 10%;
-    right: 10%;
-    width: 100%;
 }
 
 .spoiler::before {
